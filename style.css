@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background-color: #24273a;
+  --color-text: #f3f3f3;
+  --background-card: #c7c8cf;
+  --color-title-card: #0091ff;
+  --color-description-card: #333;
+  --color-link: #cccecf;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: "Rowdies", sans-serif;
+  background-color: var(--background-color);
+  color: var(--color-text);
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 1rem;
+}
+
+h1 {
+  color: var(--color-title-card);
+  margin: 1rem 0;
+}
+
+.description {
+  width: 100%;
+  padding: 1rem;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+
+  section{
+    width: auto;
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+    background-color: var(--background-card);
+    box-shadow: 0 0 5px var(--background-card);
+    h2 {
+      color: var(--color-title-card);
+    }
+    p {
+      color: var(--color-description-card);
+      text-wrap-style: wrap;
+    }
+    a {
+      color: var(--color-link);
+      text-decoration: none;
+      text-align: center;
+      padding: 0.5rem;
+      border-radius: 5px;
+      background-color: var(--color-title-card);
+      transition: 0.3s;
+      &:hover {
+        background-color: var(--background-card);
+        color: var(--color-title-card);
+      }
+    }
+  }
+}
+
+footer {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid var(--color-text);
+}
