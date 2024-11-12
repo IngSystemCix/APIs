@@ -1,0 +1,42 @@
+{
+  "tierno": [
+    "luna", "mia", "lola", "dulce", "sol", "bella", "nina", "lili", "coco", "nieve",
+    "kira", "cherry", "luz", "gala", "baby", "mimi", "milo", "oreo", "samy", "daisy",
+    "maggie", "pearl", "sandy", "fifi", "toby", "fluffy", "smokey", "candy", "leo", "ciel"
+  ],
+  "biblico": [
+    "abigail", "adriel", "benjamin", "isaac", "sara", "daniel", "samuel", "david", "noe", "elia",
+    "tamar", "jacob", "maria", "miqueas", "hannah", "aaron", "abel", "goliat", "lucas", "marcos",
+    "pablo", "raquel", "ezra", "zacarías", "mateo", "judit", "pedro", "simeon", "tomás", "jonás"
+  ],
+  "realeza": [
+    "adela", "alfonso", "amalia", "beatriz", "carlota", "diana", "eduardo", "isabel", "felipe", "henry",
+    "viktor", "leonor", "matilde", "victoria", "gustavo", "olga", "sofia", "fernando", "louis", "charles",
+    "eugenia", "alejandro", "margarita", "jacobo", "ana", "guillermo", "frederick", "clarissa", "baldomero", "aurora"
+  ],
+  "literatura": [
+    "ariel", "beatriz", "calisto", "donatella", "draco", "emma", "florentino", "galadriel", "helen", "imogen",
+    "jane", "katniss", "lancelot", "marian", "nemo", "orfeo", "phoebe", "quijote", "reina", "romeo",
+    "sebastian", "tristán", "ulysses", "venus", "wendy", "xena", "yolanda", "zafira", "piper", "tanith"
+  ],
+  "colores": [
+    "amarillo", "azul", "blanco", "rojo", "verde", "negro", "morado", "rosa", "naranja", "cian",
+    "lila", "ocre", "turquesa", "esmeralda", "celeste", "marfil", "violeta", "índigo", "gris", "lavanda",
+    "plata", "dorado", "salmón", "cobre", "carmesí", "canela", "carbón", "melocotón", "coral", "caoba"
+  ],
+  "flores": [
+    "azucena", "camelia", "dalia", "lirio", "rosa", "tulipán", "orquídea", "magnolia", "gardenia", "margarita",
+    "violeta", "hibisco", "girasol", "caléndula", "narciso", "clavel", "hortensia", "peonía", "jazmín", "loto",
+    "crisantemo", "begonia", "acacia", "iris", "alhelí", "anémona", "jazmín", "geranio", "jacinto", "violeta"
+  ],
+  "mitologia": [
+    "afrodita", "ares", "atenea", "zeus", "hera", "poseidón", "hades", "hermes", "apolo", "dionisio",
+    "artemisa", "pan", "heracles", "perséfone", "circe", "gaia", "eros", "iris", "selene", "helios",
+    "nix", "deméter", "odin", "thor", "freya", "loki", "balder", "frigga", "skadi", "vidar"
+  ],
+  "naturaleza": [
+    "agua", "aire", "fuego", "tierra", "bosque", "cielo", "río", "mar", "nieve", "brisa",
+    "roca", "sol", "lluvia", "trueno", "niebla", "lago", "montaña", "selva", "valle", "arena",
+    "tormenta", "viento", "piedra", "hoja", "lava", "raíz", "rocío", "pradera", "isla", "bosque"
+  ]
+}
